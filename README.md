@@ -21,4 +21,5 @@ A MicroPython project for ESP32-WROOM that detects motion using a PIR sensor and
 - Monitor messages in MQTT Explorer or command line (`mosquitto_sub -h 192.168.1.100 -t esp32/intruder_alert -u myuser -P mypassword`).
 
 ## Screenshots
-![MQTT Explorer Output](screenshots/mqtt.png)
+![MQTT Explorer Output](pics/mqtt_explorer.png)
+![MQTT Explorer Output](pics/image0.jpeg)
